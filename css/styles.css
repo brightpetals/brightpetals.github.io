@@ -10914,6 +10914,11 @@ video.bg-video {
   padding: calc(1rem + 2px);
 }
 
+.masthead .logo{
+  max-width: 100px;
+  padding-bottom: 20px;
+}
+
 @media (min-width: 992px) {
   .masthead {
     height: 100%;
